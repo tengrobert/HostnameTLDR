@@ -16,5 +16,8 @@
 1. Best possible company associated with ```hostname```
 3. Is this ```hostname``` provide ads services?
 
+## Google Colab Demo
+You need nyu.edu email to access [demo](https://colab.research.google.com/drive/1jN2EPKF8InBE6qlMbPlEEhHJjKukaaLq?usp=sharing)
+
 ## Contact
 [yk2703@nyu.edu](mailto:yk2703@nyu.edu)
