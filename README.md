@@ -4,6 +4,7 @@
 ## Configuration
 - Create ```config.py```
 - Put your NYU mLab api key in variable ```api_key```
+- Get hostname data from IoT Inspector
 
 ## Features
 ```simple_gpt_output.py```: Using OpenAI's Completion Api to find
