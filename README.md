@@ -17,4 +17,4 @@
 3. Is this ```hostname``` provide ads services?
 
 ## Contact
-[yk2703@nyu.edu](yk2703@nyu.edu)
+[yk2703@nyu.edu](mailto:yk2703@nyu.edu)
